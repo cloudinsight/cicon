@@ -6,8 +6,8 @@
 ![icons/cassandra.svg](icons/cassandra.svg)
 ## icons/couchbase.svg
 ![icons/couchbase.svg](icons/couchbase.svg)
-## icons/counchdb.svg
-![icons/counchdb.svg](icons/counchdb.svg)
+## icons/couchdb.svg
+![icons/couchdb.svg](icons/couchdb.svg)
 ## icons/docker.svg
 ![icons/docker.svg](icons/docker.svg)
 ## icons/elasticsearch.svg
@@ -22,8 +22,8 @@
 ![icons/mongodb.svg](icons/mongodb.svg)
 ## icons/mysql.svg
 ![icons/mysql.svg](icons/mysql.svg)
-## icons/ngnix.svg
-![icons/ngnix.svg](icons/ngnix.svg)
+## icons/nginx.svg
+![icons/nginx.svg](icons/nginx.svg)
 ## icons/phpfpm.svg
 ![icons/phpfpm.svg](icons/phpfpm.svg)
 ## icons/postgresql.svg
