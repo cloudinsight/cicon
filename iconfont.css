@@ -33,3 +33,5 @@
 .cicon-phpfpm:before { content: "\e60f"; }
 .cicon-rabbitmq:before { content: "\e610"; }
 .cicon-zookeeper:before { content: "\e611"; }
+.cicon-mesos:before { content: "\e612"; }
+.cicon-solr:before { content: "\e613"; }
