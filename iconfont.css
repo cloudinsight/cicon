@@ -19,7 +19,7 @@
 .cicon-memcached:before { content: "\e601"; }
 .cicon-mongodb:before { content: "\e602"; }
 .cicon-mysql:before { content: "\e603"; }
-.cicon-ngnix:before { content: "\e604"; }
+.cicon-nginx:before { content: "\e604"; }
 .cicon-postgresql:before { content: "\e605"; }
 .cicon-redis:before { content: "\e606"; }
 .cicon-tomcat:before { content: "\e607"; }
