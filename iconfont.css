@@ -16,7 +16,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .cicon-apache:before { content: "\e600"; }
-.cicon-memcached:before { content: "\e601"; }
+.cicon-memcache:before { content: "\e601"; }
 .cicon-mongodb:before { content: "\e602"; }
 .cicon-mysql:before { content: "\e603"; }
 .cicon-nginx:before { content: "\e604"; }
@@ -30,7 +30,7 @@
 .cicon-docker:before { content: "\e60c"; }
 .cicon-elasticsearch:before { content: "\e60d"; }
 .cicon-kafka:before { content: "\e60e"; }
-.cicon-phpfpm:before { content: "\e60f"; }
+.cicon-php_fpm:before { content: "\e60f"; }
 .cicon-rabbitmq:before { content: "\e610"; }
 .cicon-zookeeper:before { content: "\e611"; }
 .cicon-mesos:before { content: "\e612"; }
