@@ -1,6 +1,6 @@
 {
   "name": "fed-ci-icons",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ICONS for oneapm fed-ci project",
   "main": "index.js",
   "repository": {
