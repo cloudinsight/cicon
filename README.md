@@ -39,6 +39,28 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.9
+
+添加了
+
+```css
+.cicon-trash:before { content: "\e614"; }
+.cicon-disable:before { content: "\e615"; }
+```
+
+v1.0.8
+
+* 必须删除css 文件中的注释，不然会出错
+
+v1.0.7
+
+重命名后
+
+```css
+.cicon-memcache:before { content: "\e601"; }
+.cicon-php_fpm:before { content: "\e60f"; }
+```
+
 v1.0.5 
 
 添加了

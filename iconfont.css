@@ -15,6 +15,8 @@
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale;
 }
+.cicon-trash:before { content: "\e614"; }
+.cicon-disable:before { content: "\e615"; }
 .cicon-apache:before { content: "\e600"; }
 .cicon-memcache:before { content: "\e601"; }
 .cicon-mongodb:before { content: "\e602"; }
