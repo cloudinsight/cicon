@@ -39,6 +39,14 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.10
+
+添加了
+
+```css
+.cicon-trash:jianjiao { content: "\e616"; }
+```
+
 v1.0.9
 
 添加了

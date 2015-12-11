@@ -16,7 +16,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .cicon-trash:before { content: "\e614"; }
-.cicon-disable:before { content: "\e615"; }
 .cicon-apache:before { content: "\e600"; }
 .cicon-memcache:before { content: "\e601"; }
 .cicon-mongodb:before { content: "\e602"; }
@@ -37,3 +36,5 @@
 .cicon-zookeeper:before { content: "\e611"; }
 .cicon-mesos:before { content: "\e612"; }
 .cicon-solr:before { content: "\e613"; }
+.cicon-disable:before { content: "\e615"; }
+.cicon-jianliao:before { content: "\e616"; }
