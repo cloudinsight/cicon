@@ -1,55 +1,64 @@
 # fed-ci-icons
 
-> 给 [CI](http://git.oneapm.me/cloud/fed-ci) 项目用的图标
+> 给 [CI](http://git.oneapm.me/cloud/fed-ci) 项目用的图标, [在阿里巴巴上的项目地址](http://www.iconfont.cn/users/project?pid=45332)
 
-[在阿里巴巴上的项目地址](http://www.iconfont.cn/users/project?pid=45332)
+## 安装前
 
-## 安装
+### 配置 Scope
 
-配置本地的 Scope
+配置机器的 [Scope](https://docs.npmjs.com/misc/scope), 配置完以后 @oneapm 开头的模块都会从 OneAPM 的 [私有库](http://10.128.6.51:8080/) 安装
 
-```
+```sh
 npm config set @oneapm:registry http://10.128.6.51:8080/
 ```
 
-## 使用方法
+## 安装 fed-ci-icons
 
-添加依赖
-
-```
-npm install style-laoder css-loader url-loader fed-ci-icons -D
+```sh
+npm install @oneapm/fed-ci-icons -D
 ```
 
-配置 WebPack Module Loaders
+## 如何在基于 Webpack 的项目中使用
+
+### 安装相关的依赖
+```sh
+npm install style-loader css-loader url-loader file-loader -D
+```
+
+### 配置 WebPack Module Loaders
 
 ```js
-{
-  test:/\.css$/,
-  loader:'style-loader!css-loader'
-},{
-  test   : /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
-  loader : 'url-loader?limit=999990'
+module:{
+  loaders:[
+    {
+      test:/\.css$/,
+      loader:'style-loader!css-loader'
+    },{
+      test   : /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
+      loader : 'url-loader?limit=999990'
+    }
+    ...
+  ]
 }
 ```
 
-导入
+### 在 Component 里导入
 
 ```js
 import 'fed-ci-icons/iconfont.css';
 ```
 
-使用
+### 在页面中使用
 
-```
+```html
 <i className='cicon cicon-mysql'></i>
 ```
-
 
 ## 版本历史
 
 v1.0.12
 
-```
+```css
 .cicon-cog:before { content: "\e617"; }
 .cicon-point:before { content: "\e618"; }
 .cicon-oneapmlogo:before { content: "\e619"; }
