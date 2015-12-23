@@ -47,6 +47,26 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.12
+
+```
+.cicon-cog:before { content: "\e617"; }
+.cicon-point:before { content: "\e618"; }
+.cicon-oneapmlogo:before { content: "\e619"; }
+.cicon-dashboard:before { content: "\e61a"; }
+.cicon-desktop:before { content: "\e61b"; }
+.cicon-download:before { content: "\e61c"; }
+.cicon-server:before { content: "\e61d"; }
+.cicon-listalt:before { content: "\e61e"; }
+.cicon-ai:before { content: "\e61f"; }
+.cicon-bi:before { content: "\e620"; }
+.cicon-mi:before { content: "\e621"; }
+.cicon-question:before { content: "\e622"; }
+.cicon-ci:before { content: "\e623"; }
+.cicon-onealert:before { content: "\e624"; }
+.cicon-ct:before { content: "\e625"; }
+```
+
 v1.0.11
 
 使用 [Scope](https://docs.npmjs.com/misc/scope) 发布
