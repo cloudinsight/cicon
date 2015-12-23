@@ -54,6 +54,10 @@ import 'fed-ci-icons/iconfont.css';
 <i className='cicon cicon-mysql'></i>
 ```
 
+## 发布流程
+
+从 www.iconfont.cn 下载压缩包, 解压到项目目录, 覆盖同名文件, **删除 iconfont.css 里的所有注释**, 执行 `npm version patch && npm publish`
+
 ## 版本历史
 
 v1.0.12
