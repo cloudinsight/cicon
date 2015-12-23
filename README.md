@@ -4,6 +4,14 @@
 
 [在阿里巴巴上的项目地址](http://www.iconfont.cn/users/project?pid=45332)
 
+## 安装
+
+配置本地的 Scope
+
+```
+npm config set @oneapm:registry http://10.128.6.51:8080/
+```
+
 ## 使用方法
 
 添加依赖
@@ -38,6 +46,10 @@ import 'fed-ci-icons/iconfont.css';
 
 
 ## 版本历史
+
+v1.0.11
+
+使用 [Scope](https://docs.npmjs.com/misc/scope) 发布
 
 v1.0.10
 
