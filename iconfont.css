@@ -17,10 +17,13 @@
 }
 .cicon-cog:before { content: "\e617"; }
 .cicon-trash:before { content: "\e614"; }
+.cicon-bell:before { content: "\e626"; }
 .cicon-point:before { content: "\e618"; }
 .cicon-oneapmlogo:before { content: "\e619"; }
+.cicon-load:before { content: "\e628"; }
 .cicon-dashboard:before { content: "\e61a"; }
 .cicon-desktop:before { content: "\e61b"; }
+.cicon-linux:before { content: "\e627"; }
 .cicon-download:before { content: "\e61c"; }
 .cicon-server:before { content: "\e61d"; }
 .cicon-listalt:before { content: "\e61e"; }
