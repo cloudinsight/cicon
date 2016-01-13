@@ -38,6 +38,7 @@
 .cicon-ai:before { content: "\e61f"; }
 .cicon-bi:before { content: "\e620"; }
 .cicon-mi:before { content: "\e621"; }
+.cicon-loading:before { content: "\e62f"; }
 .cicon-question:before { content: "\e622"; }
 .cicon-ci:before { content: "\e623"; }
 .cicon-apache:before { content: "\e600"; }
@@ -64,3 +65,4 @@
 .cicon-solr:before { content: "\e613"; }
 .cicon-disable:before { content: "\e615"; }
 .cicon-jianliao:before { content: "\e616"; }
+.cicon-bearychat:before { content: "\e62d"; }

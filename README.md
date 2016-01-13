@@ -60,6 +60,13 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.16
+
+```css
+.cicon-loading:before { content: "\e62f"; }
+.cicon-bearychat:before { content: "\e62d"; }
+```
+
 v1.0.12
 
 ```css
