@@ -56,7 +56,11 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 发布流程
 
-从 www.iconfont.cn 下载压缩包, 解压到项目目录, 覆盖同名文件, **删除 iconfont.css 里的所有注释**, 执行 `npm version patch && npm publish`
+* 从 www.iconfont.cn 下载压缩包, 解压到项目目录, 覆盖同名文件
+* **删除 iconfont.css 里的所有注释**
+* 编辑 README.md
+* 提交代码
+* 执行 `npm run-script release`
 
 ## 版本历史
 
