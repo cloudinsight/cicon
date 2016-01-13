@@ -3,6 +3,9 @@
   "version": "1.0.15",
   "description": "ICONS for oneapm fed-ci project",
   "main": "index.js",
+  "scripts":{
+    "release":"npm version patch && npm publish"
+  },
   "repository": {
     "type": "git",
     "url": "gitlab@git.oneapm.me:cloud/fed-ci-icons.git"
