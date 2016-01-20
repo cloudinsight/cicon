@@ -64,6 +64,13 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.17
+
+```diff
+- .cicon-onealert:before { content: "\e624"; }
++ .cicon-onealert:before { content: "\e62f"; }
+```
+
 v1.0.16
 
 ```css
