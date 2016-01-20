@@ -2,6 +2,10 @@
 
 > 给 [CI](http://git.oneapm.me/cloud/fed-ci) 项目用的图标, [在阿里巴巴上的项目地址](http://www.iconfont.cn/users/project?pid=45332)
 
+## 在线预览
+
+[DEMO](http://jenkins.cloudinsight.cc/job/fed-ci-icons/ws/demo.html)
+
 ## 安装前
 
 ### 配置 Scope
