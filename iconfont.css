@@ -38,7 +38,6 @@
 .cicon-ai:before { content: "\e61f"; }
 .cicon-bi:before { content: "\e620"; }
 .cicon-mi:before { content: "\e621"; }
-.cicon-loading:before { content: "\e62f"; }
 .cicon-question:before { content: "\e622"; }
 .cicon-ci:before { content: "\e623"; }
 .cicon-apache:before { content: "\e600"; }
@@ -58,11 +57,12 @@
 .cicon-kafka:before { content: "\e60e"; }
 .cicon-php_fpm:before { content: "\e60f"; }
 .cicon-rabbitmq:before { content: "\e610"; }
-.cicon-onealert:before { content: "\e624"; }
 .cicon-ct:before { content: "\e625"; }
 .cicon-zookeeper:before { content: "\e611"; }
 .cicon-mesos:before { content: "\e612"; }
 .cicon-solr:before { content: "\e613"; }
+.cicon-loading:before { content: "\e632"; }
 .cicon-disable:before { content: "\e615"; }
 .cicon-jianliao:before { content: "\e616"; }
 .cicon-bearychat:before { content: "\e62d"; }
+.cicon-onealert:before { content: "\e62f"; }
