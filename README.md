@@ -68,6 +68,12 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.18
+
+```diff
++.cicon-windows:before { content: "\e624"; }
+```
+
 v1.0.17
 
 ```diff
