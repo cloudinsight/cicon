@@ -39,6 +39,7 @@
 .cicon-bi:before { content: "\e620"; }
 .cicon-mi:before { content: "\e621"; }
 .cicon-question:before { content: "\e622"; }
+.cicon-iis:before { content: "\e633"; }
 .cicon-ci:before { content: "\e623"; }
 .cicon-apache:before { content: "\e600"; }
 .cicon-memcache:before { content: "\e601"; }
@@ -67,3 +68,4 @@
 .cicon-jianliao:before { content: "\e616"; }
 .cicon-bearychat:before { content: "\e62d"; }
 .cicon-onealert:before { content: "\e62f"; }
+.cicon-sqlserver:before { content: "\e635"; }

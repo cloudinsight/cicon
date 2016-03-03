@@ -68,6 +68,13 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.19
+
+```diff
++.cicon-iis:before { content: "\e633"; }
++.cicon-sqlserver:before { content: "\e635"; }
+```
+
 v1.0.18
 
 ```diff
