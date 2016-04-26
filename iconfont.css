@@ -66,6 +66,7 @@
 .cicon-disable:before { content: "\e615"; }
 .cicon-windows:before { content: "\e624"; }
 .cicon-jianliao:before { content: "\e616"; }
+.cicon-nagios:before { content: "\e634"; }
 .cicon-bearychat:before { content: "\e62d"; }
 .cicon-onealert:before { content: "\e62f"; }
 .cicon-sqlserver:before { content: "\e635"; }
