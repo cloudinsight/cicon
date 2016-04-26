@@ -16,6 +16,7 @@
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale;
 }
+.cicon-snmp:before { content: "\e636"; }
 .cicon-user:before { content: "\e628"; }
 .cicon-cog:before { content: "\e617"; }
 .cicon-remove-sign:before { content: "\e62a"; }

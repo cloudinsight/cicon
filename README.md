@@ -68,6 +68,12 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.22
+
+```diff
++.cicon-snmp:before { content: "\e636"; }
+```
+
 v1.0.21
 
 ```diff
