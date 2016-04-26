@@ -68,6 +68,12 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.21
+
+```diff
++.cicon-nagios:before { content: "\e634"; }
+```
+
 v1.0.19
 
 ```diff
