@@ -4,7 +4,7 @@
   "description": "ICONS for oneapm fed-ci project",
   "main": "index.js",
   "scripts": {
-    "release": "npm version patch && npm publish"
+    "release": "npm version patch && npm publish && git push --tags"
   },
   "repository": {
     "type": "git",
