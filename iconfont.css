@@ -39,6 +39,7 @@
 .cicon-ai:before { content: "\e61f"; }
 .cicon-bi:before { content: "\e620"; }
 .cicon-mi:before { content: "\e621"; }
+.cicon-supervisord:before { content: "\e637"; }
 .cicon-question:before { content: "\e622"; }
 .cicon-iis:before { content: "\e633"; }
 .cicon-ci:before { content: "\e623"; }
