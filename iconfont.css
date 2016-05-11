@@ -29,6 +29,7 @@
 .cicon-edit:before { content: "\e629"; }
 .cicon-dashboard:before { content: "\e61a"; }
 .cicon-desktop:before { content: "\e61b"; }
+.cicon-pubu:before { content: "\e63a"; }
 .cicon-linux:before { content: "\e627"; }
 .cicon-copy:before { content: "\e62e"; }
 .cicon-download:before { content: "\e61c"; }

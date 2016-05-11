@@ -67,6 +67,9 @@ import 'fed-ci-icons/iconfont.css';
 * 执行 `npm run-script release`
 
 ## 版本历史
+v1.0.26
+
+.cicon-pubu:before { content: "\e63a"; }
 
 v1.0.25
 
