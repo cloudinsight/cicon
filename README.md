@@ -68,6 +68,11 @@ import 'fed-ci-icons/iconfont.css';
 
 ## 版本历史
 
+v1.0.25
+
+.cicon-gunicorn:before { content: "\e638"; }
+.cicon-gearman:before { content: "\e639"; }
+
 v1.0.23
 
 ```diff
