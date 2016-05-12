@@ -1,10 +1,10 @@
 {
   "name": "@oneapm/fed-ci-icons",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "ICONS for oneapm fed-ci project",
   "main": "index.js",
   "scripts": {
-    "release": "npm version patch && npm publish && git push --tags"
+    "release": "npm version patch && npm publish && git push && git push --tags"
   },
   "repository": {
     "type": "git",

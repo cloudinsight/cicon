@@ -69,6 +69,10 @@ import 'fed-ci-icons/iconfont.css';
 ## 版本历史
 v1.0.26
 
+.cicon-cacti:before { content: "\e63b"; }
+
+v1.0.26
+
 .cicon-pubu:before { content: "\e63a"; }
 
 v1.0.25
