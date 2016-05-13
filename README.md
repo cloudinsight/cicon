@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-[DEMO](http://jenkins.cloudinsight.cc/job/fed-ci-icons/ws/demo.html)
+[DEMO](http://docs.cloudinsight.cc/fed-ci-icons/demo.html)
 
 ## 安装前
 
