@@ -11,13 +11,15 @@
 
 ## 安装和配置
 
-**安装 `cicon`**
+> 假设开发环境是 `React` 和 `Webpack`
+
+**通过 NPM 安装 `cicon` 和相关 Loader**
 
 ```sh
 npm install cicon style-loader css-loader url-loader file-loader -D
 ```
 
-**配置 Loader**
+**修改 Webpack 配置文件**
 
 ```js
 module:{
@@ -34,15 +36,15 @@ module:{
 }
 ```
 
-## 在 React 中使用用 
+## 在 React 中使用
 
-### 在组件里导入字体库
+**在组件里导入字体库**
 
 ```js
 import 'cicon/iconfont.css';
 ```
 
-### 在页面中使用
+**在页面中使用样式**
 
 ```html
 <i className='cicon cicon-mysql'></i>
