@@ -67,18 +67,33 @@ import 'fed-ci-icons/iconfont.css';
 * 执行 `npm run-script release`
 
 ## 版本历史
+v1.0.29
+
+```diff
+.cicon-python:before { content: "\e63c"; }
+.cicon-aliyun:before { content: "\e63d"; }
+.cicon-php:before { content: "\e63e"; }
+.cicon-java:before { content: "\e63f"; }
+```
+
 v1.0.26
 
+```diff
 .cicon-cacti:before { content: "\e63b"; }
+```
 
 v1.0.26
 
+```diff
 .cicon-pubu:before { content: "\e63a"; }
+```
 
 v1.0.25
 
+```diff
 .cicon-gunicorn:before { content: "\e638"; }
 .cicon-gearman:before { content: "\e639"; }
+```
 
 v1.0.23
 

@@ -30,6 +30,7 @@
 .cicon-dashboard:before { content: "\e61a"; }
 .cicon-desktop:before { content: "\e61b"; }
 .cicon-pubu:before { content: "\e63a"; }
+.cicon-python:before { content: "\e63c"; }
 .cicon-linux:before { content: "\e627"; }
 .cicon-copy:before { content: "\e62e"; }
 .cicon-download:before { content: "\e61c"; }
@@ -64,9 +65,11 @@
 .cicon-rabbitmq:before { content: "\e610"; }
 .cicon-ct:before { content: "\e625"; }
 .cicon-zookeeper:before { content: "\e611"; }
+.cicon-aliyun:before { content: "\e63d"; }
 .cicon-mesos:before { content: "\e612"; }
 .cicon-solr:before { content: "\e613"; }
 .cicon-loading:before { content: "\e632"; }
+.cicon-php:before { content: "\e63e"; }
 .cicon-disable:before { content: "\e615"; }
 .cicon-windows:before { content: "\e624"; }
 .cicon-jianliao:before { content: "\e616"; }
@@ -76,3 +79,4 @@
 .cicon-cacti:before { content: "\e63b"; }
 .cicon-onealert:before { content: "\e62f"; }
 .cicon-sqlserver:before { content: "\e635"; }
+.cicon-java:before { content: "\e63f"; }
