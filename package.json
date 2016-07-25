@@ -1,18 +1,19 @@
 {
-  "name": "@oneapm/fed-ci-icons",
+  "name": "cicon",
   "version": "1.0.29",
-  "description": "ICONS for oneapm fed-ci project",
-  "main": "index.js",
+  "description": "Icon fonts for Cloudinsight",
+  "main": "iconfont.css",
   "scripts": {
     "release": "npm version patch && npm publish && git push && git push --tags"
   },
   "repository": {
     "type": "git",
-    "url": "gitlab@git.oneapm.me:cloud/fed-ci-icons.git"
+    "url": "git@github.com:cloudinsight/cicon.git"
   },
   "keywords": [
-    "iconfont"
+    "iconfont",
+    "cloudinsight"
   ],
-  "author": "design team",
+  "author": "cloudinsight",
   "license": "UNLICENSED"
 }

@@ -1,35 +1,23 @@
-# fed-ci-icons
+# cicon
+[![](https://img.shields.io/npm/v/cicon.svg)](https://www.npmjs.com/package/cicon)
 
-> 给 [CI](http://git.oneapm.me/cloud/fed-ci) 项目用的图标, [在阿里巴巴上的项目地址](http://www.iconfont.cn/users/project?pid=45332)
+> Cloudinsight 项目的字体文件
+ 
+## 关于
 
-## 在线预览
+字体库在线编辑 http://www.iconfont.cn/users/project?pid=45332
 
-[DEMO](http://docs.cloudinsight.cc/fed-ci-icons/demo.html)
+预览  https://cloudinsight.github.io/cicon/demo.html
 
-## 安装前
+## 安装和配置
 
-### 配置 Scope
-
-配置机器的 [Scope](https://docs.npmjs.com/misc/scope), 配置完以后 @oneapm 开头的模块都会从 OneAPM 的 [私有库](http://10.128.6.51:8080/) 安装
-
-```sh
-npm config set @oneapm:registry http://10.128.6.51:8080/
-```
-
-## 安装 fed-ci-icons
+**安装 `cicon`**
 
 ```sh
-npm install @oneapm/fed-ci-icons -D
+npm install cicon style-loader css-loader url-loader file-loader -D
 ```
 
-## 如何在基于 Webpack 的项目中使用
-
-### 安装相关的依赖
-```sh
-npm install style-loader css-loader url-loader file-loader -D
-```
-
-### 配置 WebPack Module Loaders
+**配置 Loader**
 
 ```js
 module:{
@@ -37,19 +25,21 @@ module:{
     {
       test:/\.css$/,
       loader:'style-loader!css-loader'
-    },{
+    },
+    {
       test   : /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
       loader : 'url-loader?limit=999990'
     }
-    ...
   ]
 }
 ```
 
-### 在 Component 里导入
+## 在 React 中使用用 
+
+### 在组件里导入字体库
 
 ```js
-import 'fed-ci-icons/iconfont.css';
+import 'cicon/iconfont.css';
 ```
 
 ### 在页面中使用
@@ -64,9 +54,14 @@ import 'fed-ci-icons/iconfont.css';
 * **删除 iconfont.css 里的所有注释**
 * 编辑 README.md
 * 提交代码
-* 执行 `npm run-script release`
+* 执行 `npm run release`
 
 ## 版本历史
+
+v1.1.0
+
+发布到 `NPM` 
+
 v1.0.29
 
 ```diff
