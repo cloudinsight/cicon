@@ -70,29 +70,36 @@ import 'fed-ci-icons/iconfont.css';
 v1.0.29
 
 ```diff
-.cicon-python:before { content: "\e63c"; }
-.cicon-aliyun:before { content: "\e63d"; }
-.cicon-php:before { content: "\e63e"; }
-.cicon-java:before { content: "\e63f"; }
++.cicon-python:before { content: "\e63c"; }
++.cicon-aliyun:before { content: "\e63d"; }
++.cicon-php:before { content: "\e63e"; }
++.cicon-java:before { content: "\e63f"; }
++.cicon-ruby:before { content: "\e623"; }
++.cicon-openstack:before { content: "\e642"; }
++.cicon-ci-large:before { content: "\e641"; }
+-.cicon-ci:before { content: "\e623"; }
++.cicon-ci:before { content: "\e640"; }
+-.cicon-memcache:before { content: "\e601"; }
++.cicon-memcached:before { content: "\e601"; }
 ```
 
 v1.0.26
 
 ```diff
-.cicon-cacti:before { content: "\e63b"; }
++.cicon-cacti:before { content: "\e63b"; }
 ```
 
 v1.0.26
 
 ```diff
-.cicon-pubu:before { content: "\e63a"; }
++.cicon-pubu:before { content: "\e63a"; }
 ```
 
 v1.0.25
 
 ```diff
-.cicon-gunicorn:before { content: "\e638"; }
-.cicon-gearman:before { content: "\e639"; }
++.cicon-gunicorn:before { content: "\e638"; }
++.cicon-gearman:before { content: "\e639"; }
 ```
 
 v1.0.23

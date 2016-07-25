@@ -44,10 +44,10 @@
 .cicon-mi:before { content: "\e621"; }
 .cicon-supervisord:before { content: "\e637"; }
 .cicon-question:before { content: "\e622"; }
+.cicon-ruby:before { content: "\e623"; }
 .cicon-iis:before { content: "\e633"; }
-.cicon-ci:before { content: "\e623"; }
 .cicon-apache:before { content: "\e600"; }
-.cicon-memcache:before { content: "\e601"; }
+.cicon-memcached:before { content: "\e601"; }
 .cicon-mongodb:before { content: "\e602"; }
 .cicon-mysql:before { content: "\e603"; }
 .cicon-nginx:before { content: "\e604"; }
@@ -80,3 +80,7 @@
 .cicon-onealert:before { content: "\e62f"; }
 .cicon-sqlserver:before { content: "\e635"; }
 .cicon-java:before { content: "\e63f"; }
+.cicon-ci:before { content: "\e640"; }
+.cicon-ci-large:before { content: "\e641"; }
+.cicon-openstack:before { content: "\e642"; }
+.cicon-nodejs:before { content: "\e643"; }
