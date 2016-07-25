@@ -83,7 +83,7 @@ v1.0.29
 +.cicon-memcached:before { content: "\e601"; }
 ```
 
-v1.0.26
+v1.0.28
 
 ```diff
 +.cicon-cacti:before { content: "\e63b"; }
