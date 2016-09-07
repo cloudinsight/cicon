@@ -1,3 +1,11 @@
+v1.1.2
+
+```diff
+-.cicon-aliyun:before { content: "\e63d"; }
++.cicon-hdfs:before { content: "\e644"; }
++.cicon-aliyun:before { content: "\e645"; }
+```
+
 v1.1.0
 
 发布到 `NPM` 
