@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install percy-cli
 script:
-  - percy snapshot ./demo_fontclass.html
+  - percy snapshot --enable_javascript .
