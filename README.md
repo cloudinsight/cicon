@@ -1,6 +1,8 @@
 # cicon
 
 [![](https://img.shields.io/npm/v/cicon.svg)](https://www.npmjs.com/package/cicon)
+[![Travis](https://img.shields.io/travis/cloudinsight/cicon.svg)](https://travis-ci.org/cloudinsight/cicon)
+[![](https://img.shields.io/badge/visual-diff-582a64.svg)](https://percy.io/cloudinsight/cicon)
 
 > Cloudinsight 前端使用到的网页字体文件
  
@@ -12,7 +14,7 @@
 
 使用说明 https://github.com/cloudinsight/cicon/wiki/USAGE
 
-历史记录 https://github.com/cloudinsight/cicon/wiki/CHANGELOG
+历史记录 https://github.com/cloudinsight/cicon/blob/master/CHANGELOG.md
 
 发布流程 https://github.com/cloudinsight/cicon/wiki/RELEASE
 
