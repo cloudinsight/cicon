@@ -4,6 +4,7 @@
   "description": "Icon fonts for Cloudinsight",
   "main": "iconfont.css",
   "scripts": {
+    "pre-release": "npm version prepatch && npm publish -r=https://registry.npmjs.com",
     "release": "npm version patch && npm publish -r=https://registry.npmjs.com"
   },
   "repository": {
