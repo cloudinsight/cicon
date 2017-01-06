@@ -6,7 +6,7 @@
  
 ## 关于
 
-在线预览 https://cloudinsight.github.io/cicon/demo.html
+在线预览 https://cloudinsight.github.io/cicon/demo_fontclass.html
 
 在线编辑 http://www.iconfont.cn/users/project?pid=45332
 
