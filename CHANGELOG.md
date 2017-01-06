@@ -1,3 +1,20 @@
+v1.1.4
+
+```diff
++.cicon-ciright:before { content: "\e6dd"; }
++.cicon-cileft:before { content: "\e6de"; }
++.cicon-overview:before { content: "\e652"; }
++.cicon-multitype:before { content: "\eda6"; }
+```
+
+v1.1.3
+
+```diff
+-.cicon-aliyun:before { content: "\e645"; }
++.cicon-haproxy:before { content: "\e63d"; }
++.cicon-aliyun:before { content: "\e646"; }
+```
+
 v1.1.2
 
 ```diff
