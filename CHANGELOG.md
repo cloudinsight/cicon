@@ -1,10 +1,13 @@
 v1.1.4
 
 ```diff
-+.cicon-ciright:before { content: "\e6dd"; }
-+.cicon-cileft:before { content: "\e6de"; }
++.cicon-right:before { content: "\e6dd"; }
++.cicon-left:before { content: "\e6de"; }
 +.cicon-overview:before { content: "\e652"; }
-+.cicon-multitype:before { content: "\eda6"; }
++.cicon-singlePage:before { content: "\eda6"; }
++.cicon-play:before { content: "\e824"; }
++.cicon-pause:before { content: "\e69e"; }
++.cicon-exit:before { content: "\e65d"; }
 ```
 
 v1.1.3
