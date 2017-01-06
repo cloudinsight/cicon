@@ -85,7 +85,10 @@
 .cicon-openstack:before { content: "\e642"; }
 .cicon-nodejs:before { content: "\e643"; }
 .cicon-aliyun:before { content: "\e645"; }
-.cicon-ciright:before { content: "\e6dd"; }
-.cicon-cileft:before { content: "\e6de"; }
+.cicon-right:before { content: "\e6dd"; }
+.cicon-left:before { content: "\e6de"; }
+.cicon-exit:before { content: "\e65d"; }
+.cicon-pause:before { content: "\e69e"; }
+.cicon-play:before { content: "\e824"; }
+.cicon-singlePage:before { content: "\eda6"; }
 .cicon-overview:before { content: "\e652"; }
-.cicon-multitype:before { content: "\eda6"; }
